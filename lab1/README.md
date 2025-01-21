@@ -4,5 +4,5 @@
 
 Все предельно просто xD
 
-![lab1](/Lab1.png "lab1")
+![lab1](./Lab1.png "lab1")
 
